@@ -42,7 +42,7 @@
 
 **Goal**: Assess the impact of different optimizers on VQE performance.
 
-- Try `COBYLA`, `SLSQP`, `L_BFGS_B`, `SPSA`.
+- Try `SLSQP`, `L_BFGS_B`, `SPSA`.
 - Compare:
   - Accuracy
   - Number of iterations
