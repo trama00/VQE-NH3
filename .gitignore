@@ -2,3 +2,5 @@ results/
 diff*/
 
 __pycache__/
+
+*.zip
