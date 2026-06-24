@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pennylane
+pyscf
+qiskit
+qiskit-algorithms
+qiskit-nature
